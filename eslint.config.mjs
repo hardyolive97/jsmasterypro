@@ -9,9 +9,11 @@ const eslintConfig = defineConfig([
   globalIgnores([
     // Default ignores of eslint-config-next:
     ".next/**",
+    "standard/**",
     "out/**",
     "build/**",
     "next-env.d.ts",
+    'prettier.config.js',
   ]),
 ]);
 

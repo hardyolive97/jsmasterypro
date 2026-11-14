@@ -1,0 +1,19 @@
+
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
+  "editor.minimap.enabled": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "prettier.trailingComma": "es5",
+  "prettier.singleQuote": false,
+  "prettier.semi": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
